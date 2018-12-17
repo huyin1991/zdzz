@@ -15,9 +15,9 @@ def send_mail(file_new):
 
     # 邮箱相关参数
     smtpserver = "smtp.exmail.qq.com"
-    sender = 'huyin@gakm.net'    #发送人的邮箱
-    recevier = '363468616@qq.com'  #接收人的邮箱
-    username = 'huyin@gakm.net'  #发送人的邮箱账号
+    sender = 'exmail@qq.com'    #发送人的邮箱
+    recevier = 'exmail@qq.com'  #接收人的邮箱
+    username = 'exmail@qq.com'  #发送人的邮箱账号
     password = 'password'        #发送人的邮箱密码
 
     # 创建实例
